@@ -14,7 +14,6 @@ Hey there! 😊 I'm Justas Stankevičius, and I'm passionate about coding! 💻�
     <img style="padding: 10px;" src="https://img.shields.io/badge/Porfolio-blue" alt="porfolio" />
 </a>
 </div>
-
 <br/>
 
 ### Socials
