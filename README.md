@@ -8,10 +8,10 @@ Hey there! 😊 I'm Justas Stankevičius, and I'm passionate about coding! 💻�
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![SCSS](https://skillicons.dev/icons?i=scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Porfolio
-<div id="badges">
+<div  id="badges">
 <a 
     href="https://justas10k.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Porfolio-blue" alt="porfolio" />
+    <img style="padding: 10px;" src="https://img.shields.io/badge/Porfolio-blue" alt="porfolio" />
 </a>
 </div>
 
