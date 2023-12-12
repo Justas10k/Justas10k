@@ -9,10 +9,8 @@ Hey there! 😊 I'm Justas Stankevičius, and I'm passionate about coding! 💻�
 
 ### Porfolio
 
-<a href="https://justas10k.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+<a style="padding: 10px 20px; background-color: #4CAF50; color: white;  border-radius: 5px;" href="https://justas10k.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
     Portfolio
-  </button>
 </a>
 
 
