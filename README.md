@@ -1,7 +1,6 @@
 Hey there! 😊 I'm Justas Stankevičius, and I'm passionate about coding! 💻✨
 
 <hr/>
-<br/>
 
 ### Skills
 
