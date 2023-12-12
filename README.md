@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Justas Stankevičius</h1>
-<h3 align="center">🌍 I am a Front-End Developer based in Kaunas, Lithuania.</h3>
+<h1>Hi 👋, I'm Justas Stankevičius</h1>
+<br/>
+<h3>🌍 I am a Front-End Developer based in Kaunas, Lithuania.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
