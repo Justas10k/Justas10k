@@ -1,4 +1,4 @@
-Hey there! 😊 I'm Justas Stankevičius, and I'm passionate about coding! 💻✨
+Hello World 👋, I'm Justas! I am a naturally curious guy with a passion for logic and learning new things. ! 💻✨
 
 <hr/>
 
