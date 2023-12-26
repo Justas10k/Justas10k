@@ -27,8 +27,8 @@
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![SCSS](https://skillicons.dev/icons?i=scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
