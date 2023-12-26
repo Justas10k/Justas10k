@@ -11,11 +11,11 @@
 
 <p>
 
- 🌱 I’m currently learning **TypeScript, Redux, Integrating AI**
+🌱 I’m currently learning **TypeScript, Redux, Integrating AI**
 
- 💬 Ask me about **Anything**
+💬 Ask me about **Anything**
 
- ⚡ Fun fact **I Watch Anime**
+⚡ Fun fact **I Watch Anime**
 
 </p>
 
@@ -32,19 +32,15 @@
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-</div>
-
-
 
 </div>
 
-</br>
-
-### Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/justas-stankevicius-430119293/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
 </div>
 
 <!-- <details>
