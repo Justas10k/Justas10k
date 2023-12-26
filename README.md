@@ -1,26 +1,26 @@
 <!-- GIF -->
 <div align="center">
-<img  height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img  height="400" width="1200" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<h1>Hi 👋, I'm Justas Stankevicius</h1>
-</h1>
+<h1>"Hello World"👋, I'm Justas Stankevicius</h1>
+
 <h3 >A passionate Front-End Developer from Lithuania 🗺️. naturally curious guy with a passion for logic and learning new things. ! 💻✨</h3>
-
+</hr>
+</br>
 <img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p>
 
-- 🌱 I’m currently learning **TypeScript, Redux, Integrating AI**
+ 🌱 I’m currently learning **TypeScript, Redux, Integrating AI**
 
-- 💬 Ask me about **Anything**
+ 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **I Watch Anime**
+ ⚡ Fun fact **I Watch Anime**
 
 </p>
 
 <hr/>
 <div>
-### Skills
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +34,6 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 </div>
 
-### Socials
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/justas-stankevicius-430119293/">
