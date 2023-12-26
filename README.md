@@ -18,7 +18,11 @@
 ⚡ Fun fact **I Watch Anime**
 
 </p>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/justas-stankevicius-430119293/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <hr/>
 <div>
 
@@ -33,12 +37,6 @@
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/justas-stankevicius-430119293/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 </div>
