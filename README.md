@@ -1,13 +1,12 @@
 <!-- GIF -->
 <div align="center">
-<img  height="400" width="1200" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img  height="400" width="800" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="Coding" />
 
 <h1>"Hello World"👋, I'm Justas Stankevicius</h1>
 
 <h3 >A passionate Front-End Developer from Lithuania 🗺️. naturally curious guy with a passion for logic and learning new things. ! 💻✨</h3>
 </hr>
 </br>
-<img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p>
 
