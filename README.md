@@ -35,9 +35,18 @@
 </div>
 
 
+
+</div>
+
+</br>
+
+### Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/justas-stankevicius-430119293/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-</div>
+
+<!-- <details>
+ <summary><h3>👨‍💻Bla Bla</h3></summary>
+   More bla bla -->
