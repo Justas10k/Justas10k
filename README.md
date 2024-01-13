@@ -4,7 +4,7 @@
 
 <h1>"Hello World"👋, I'm Justas Stankevicius</h1>
 
-<h3 >A passionate Front-End Developer from Lithuania 🗺️. naturally curious guy with a passion for logic and learning new things. ! 💻✨</h3>
+<h3 >A passionate Full Stack Developer from Lithuania 🗺️. naturally curious guy with a passion for logic and learning new things. ! 💻✨</h3>
 </hr>
 </br>
 
