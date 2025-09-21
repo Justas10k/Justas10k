@@ -2,19 +2,14 @@
 <div align="center">
 <img  height="400" width="800" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="Coding" />
 
-<h1>"Hello World"👋, I'm Justas Stankevicius</h1>
+<h1>"Hello World"👋, I'm Justas10k</h1>
 
-<h3 >A passionate Full Stack Developer from Lithuania 🗺️. naturally curious guy with a passion for logic and learning new things. ! 💻✨</h3>
+<h3 >Full Stack Developer from Lithuania 🗺️ 💻✨</h3>
 </hr>
 </br>
 
 <p>
-
-🌱 I’m currently learning **TypeScript, Redux, Integrating AI**
-
-💬 Ask me about **Anything**
-
-⚡ Fun fact **I Watch Anime**
+  
 
 </p>
 <div id="badges">
